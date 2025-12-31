@@ -30,20 +30,20 @@ I want you to know that you are the most precious person in my life. Every day w
     specialDeliveryText: "Special Delivery 💌",
     continueButton: "Continue To See More ✨"
     },
-    letter: {
-      headerTitle: "A New Year Letter 💌",
-      headerSubtitle: "Warm wishes for 2026",
-      letterHeaderTitle: "Dear Friend",
-      letterMessage: `Dear Friend,
+  //   letter: {
+  //     headerTitle: "A New Year Letter 💌",
+  //     headerSubtitle: "Warm wishes for 2026",
+  //     letterHeaderTitle: "Dear Love",
+  //     letterMessage: `Dear Love,
 
-  As the year turns, may your days be filled with laughter, love, and new adventures. May every dream you chase bring you closer to happiness and every moment be a memory worth cherishing.
+  // As the year turns, may your days be filled with laughter, love, and new adventures. May every dream you chase bring you closer to happiness and every moment be a memory worth cherishing.
 
-  Wishing you a fantastic 2026 ahead!\n\nHappy New Year! 🎉\n`,
-      letterSignature: "Cheers! 🎉",
-      envelopeClickHint: "Click to open your New Year wish",
-      specialDeliveryText: "Special Delivery 🎉",
-      continueButton: "Continue To Celebrate ✨"
-    },
+  // Wishing you a fantastic 2026 ahead!\n\nHappy New Year! 🎉\n`,
+  //     letterSignature: "Cheers! 🎉",
+  //     envelopeClickHint: "Click to open your New Year wish",
+  //     specialDeliveryText: "Special Delivery 🎉",
+  //     continueButton: "Continue To Celebrate ✨"
+  //   },
 
   chillZone: {
     heading: "A Dedicated Playlist For You",
@@ -56,17 +56,17 @@ I want you to know that you are the most precious person in my life. Every day w
       { id: 3, title: "Dil ka Jo Haal hai", caption: "Tu Kaare Dil Bekarar 💞" }
     ]
     },
-    chillZone: {
-      heading: "New Year Playlist",
-      subheading: "Celebrate with these festive tracks!",
-      chooseTrackHint: "Choose a song to start the party ✨",
-      continueButton: "Continue to Next ✨",
-      tracks: [
-        { id: 1, title: "Happy New Year - ABBA", caption: "Classic vibes for a fresh start! 🎊" },
-        { id: 2, title: "Auld Lang Syne", caption: "Remember the good times and friends! 🎉" },
-        { id: 3, title: "Firework - Katy Perry", caption: "Shine bright in 2026! 🎉" }
-      ]
-    },
+    // chillZone: {
+    //   heading: "New Year Playlist",
+    //   subheading: "Celebrate with these festive tracks!",
+    //   chooseTrackHint: "Choose a song to start the party ✨",
+    //   continueButton: "Continue to Next ✨",
+    //   tracks: [
+    //     { id: 1, title: "Happy New Year - ABBA", caption: "Classic vibes for a fresh start! 🎊" },
+    //     { id: 2, title: "Auld Lang Syne", caption: "Remember the good times and friends! 🎉" },
+    //     { id: 3, title: "Firework - Katy Perry", caption: "Shine bright in 2026! 🎉" }
+    //   ]
+    // },
 
   cards: {
     heading: "Some Special Cards For You",
@@ -132,27 +132,27 @@ I want you to know that you are the most precious person in my life. Every day w
     ],
     sealingNote: "Sealing will finish the experience."
     },
-    finalLetter: {
-      title: "Final New Year Wish",
-      sealingText: "Sealing your wish...",
-      sealButton: "Seal this Wish 🎉",
-      restartButton: "Restart",
-      sealedTitle: "Wish Sealed for 2026",
-      sealedSubtitle: "Wishing You a Wonderful Year!",
-      typedDefault: "Happy New Year! 🎊",
-      experienceAgain: "Experience Again ✨",
-      sendKissButton: "Send a Virtual Hug 🤗",
-      dateLocale: "en-US",
-      // Letter content
-      letterGreeting: "Dear Friend,",
-      letterParagraphs: [
-        "May 2026 bring you endless opportunities and beautiful moments.",
-        "Celebrate every day, cherish every memory, and keep moving forward with hope.",
-        "Thank you for being part of my journey. Here's to new adventures together!",
-        "Wishing you a year as bright and wonderful as you are."
-      ],
-      sealingNote: "Sealing will finish the celebration."
-    },
+    // finalLetter: {
+    //   title: "Final New Year Wish",
+    //   sealingText: "Sealing your wish...",
+    //   sealButton: "Seal this Wish 🎉",
+    //   restartButton: "Restart",
+    //   sealedTitle: "Wish Sealed for 2026",
+    //   sealedSubtitle: "Wishing You a Wonderful Year!",
+    //   typedDefault: "Happy New Year! 🎊",
+    //   experienceAgain: "Experience Again ✨",
+    //   sendKissButton: "Send a Virtual Hug 🤗",
+    //   dateLocale: "en-US",
+    //   // Letter content
+    //   letterGreeting: "Dear Friend,",
+    //   letterParagraphs: [
+    //     "May 2026 bring you endless opportunities and beautiful moments.",
+    //     "Celebrate every day, cherish every memory, and keep moving forward with hope.",
+    //     "Thank you for being part of my journey. Here's to new adventures together!",
+    //     "Wishing you a year as bright and wonderful as you are."
+    //   ],
+    //   sealingNote: "Sealing will finish the celebration."
+    // },
 
   common: {
     continue: "Continue to Next ✨",
