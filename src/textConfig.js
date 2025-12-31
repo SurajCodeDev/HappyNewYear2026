@@ -1,18 +1,18 @@
 const textConfig = {
   landing: {
-    title: "Hey Jigglypuff! 💕",
+    title: "Hey Sweetheart! 💕",
     subtitle: "I Wanted to do something special for you, so I made something special just for you...",
     lastLine: "Click below to see what it is! ✨",
     button: "Open My Heart 💖",
     footer: "Made with love, only for you 💕",
     },
-    landing: {
-      title: "Happy New Year 2026! 🎉",
-      subtitle: "Wishing you joy, success, and endless happiness in the coming year!",
-      lastLine: "Click below to start your New Year journey! ✨",
-      button: "Begin Celebration 🎊",
-      footer: "Cheers to a wonderful 2026! 🎉",
-    },
+    // landing: {
+    //   title: "Happy New Year 2026! 🎉",
+    //   subtitle: "Wishing you joy, success, and endless happiness in the coming year!",
+    //   lastLine: "Click below to start your New Year journey! ✨",
+    //   button: "Begin Celebration 🎊",
+    //   footer: "Cheers to a wonderful 2026! 🎉",
+    // },
 
   // ActivityPage/Letter configuration
   letter: {
