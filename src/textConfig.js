@@ -127,7 +127,7 @@ I want you to know that you are the most precious person in my life. Every day w
     letterParagraphs: [
       "You're the calm I reach for and the laugh that brightens my day.",
       "I hope this tiny world made you smile — and whispered how much you mean to me.",
-      "Only 2.5 months left... and I can't imagine these days without you. I love you so much and every moment with you is priceless.",
+      "I can't imagine these days without you. I love you so much and every moment with you is priceless.",
       "You are amazing in every way... and honestly, I feel like I haven't good enough for you."
     ],
     sealingNote: "Sealing will finish the experience."
